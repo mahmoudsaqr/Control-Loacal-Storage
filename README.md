@@ -1,2 +1,2 @@
-# Control-Loacal-Storage
-Control Loacal Storage using JS
+# Control-Local-Storage
+Control Local Storage using JS
